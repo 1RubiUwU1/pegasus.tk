@@ -17,7 +17,7 @@ Welcome to the official repository of Pegasus X - an advanced automated data ana
 ## Introduction
 
 Pegasus X is an open-source project aimed at simplifying and accelerating the data analysis workflow. It provides a set of tools and functionalities that allow users to perform data analysis tasks without the need for extensive programming knowledge. Whether you're a beginner or an experienced data professional, Pegasus X offers a user-friendly interface for analyzing, visualizing, and modeling data.
-
+[![Tutorial en Video](https://raw.githubusercontent.com/1RubiUwU1/pegasus.tk/main/img/PGX.PNG)](https://github.com/1RubiUwU1/pegasus.tk/raw/main/img/chat/videos/canto.mp4)
 ## Features
 
 - **Data Loading:** Load data from various sources, including CSV, Excel, databases, and APIs.
