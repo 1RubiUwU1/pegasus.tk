@@ -1,6 +1,6 @@
 # Pegasus X - Automated Data Analysis Framework
 
-![Pegasus X Logo]([https://example.com/pegasus-x-logo.png](https://raw.githubusercontent.com/1RubiUwU1/pegasus.tk/main/img/PGX.PNG))
+![Pegasus X Logo](https://raw.githubusercontent.com/1RubiUwU1/pegasus.tk/main/img/PGX.PNG)
 
 Welcome to the official repository of Pegasus X - an advanced automated data analysis framework designed to streamline and enhance the process of data analysis. Pegasus X empowers data scientists, analysts, and researchers to efficiently perform data exploration, visualization, modeling, and more, all within a single unified platform.
 
